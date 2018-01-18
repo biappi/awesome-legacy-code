@@ -7,6 +7,7 @@
 * Languages
   * [Assembly](#assembly)
   * [C](#c)
+  * [Pascal](#pascal)
   * [Java](#java)
   * [C#](#CSharp)
 
@@ -30,6 +31,10 @@
 * [DOOM](https://github.com/id-Software/DOOM)
 * [Quake](https://github.com/id-Software/Quake)
 * [Microsoft Word for Windows 1.1a](http://www.computerhistory.org/atchm/microsoft-research-license-agreement-msword-v-1-1a/)
+
+### Pascal
+
+* [Adobe Photoshop 1.0.1](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/)
 
 ### Java 
 * [Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)
